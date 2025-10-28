@@ -6,10 +6,6 @@
 #   Check Package:             'Ctrl + Shift + E'
 #   Test Package:              'Ctrl + Shift + T'
 
-#' WOAH Corporate Color Palette
-#'
-#' A named vector of HEX codes used by the World Organisation for Animal Health (WOAH)
-#' for consistent data visualization across reports, dashboards, and presentations.
 #'
 #' @format A named character vector with 50 HEX color codes.
 #'
