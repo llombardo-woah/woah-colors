@@ -1,17 +1,12 @@
 
-#
-# Some useful keyboard shortcuts for package authoring:
-#
-#   Install Package:           'Ctrl + Shift + B'
-#   Check Package:             'Ctrl + Shift + E'
-#   Test Package:              'Ctrl + Shift + T'
-
+#' WOAH Corporate Color Palette
+#'
+#' A named vector of HEX codes used by the World Organisation for Animal Health (WOAH)
+#' for consistent data visualization across reports, dashboards, and presentations.
 #'
 #' @format A named character vector with 50 HEX color codes.
-#'
 #' @examples
 #' woah_palette["Blue"]
-#'
 #' @export
 woah_palette <- c(
   Orange     = "#FF4815",
@@ -57,6 +52,7 @@ woah_palette <- c(
   Yellow_50  = "#FFF8E7",
   Yellow_25  = "#FFFCF2"
 )
+
 
 
 

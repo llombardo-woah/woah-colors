@@ -16,6 +16,5 @@ for consistent data visualization across reports, dashboards, and presentations.
 }
 \examples{
 woah_palette["Blue"]
-
 }
 \keyword{datasets}
