@@ -1,0 +1,20 @@
+Package: WoahColors
+Type: Package
+Title: WOAH color Palette
+Version: 0.1.0
+Authors@R: c(
+    person(
+      "Ludovico", "Lombardo",
+      email = "l.lombardo@woah.org",
+      role = c("aut", "cre")
+    )
+  )
+Description: Provides the official color palette of the World Organisation for Animal Health (WOAH). 
+    This package ensures consistent color use across reports, dashboards, and visual outputs.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.3.3
+Suggests: 
+    testthat (>= 3.0.0)
+Config/testthat/edition: 3
